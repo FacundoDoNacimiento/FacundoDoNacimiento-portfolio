@@ -1,13 +1,1 @@
-![java](https://github.com/FacundoDoNacimiento/FacundoDoNacimiento-portfolio/assets/118696372/4fcf7150-5265-4f7d-8931-3b49714574a7)
-![react](https://github.com/FacundoDoNacimiento/FacundoDoNacimiento-portfolio/assets/118696372/8d25b55a-2d4e-4992-b68f-c1e42555f58f)
-![phone](https://github.com/FacundoDoNacimiento/FacundoDoNacimiento-portfolio/assets/118696372/c4004c71-af42-49b9-9c6e-fb57710c64a6)
-![js](https://github.com/FacundoDoNacimiento/FacundoDoNacimiento-portfolio/assets/118696372/29f48a3c-bd82-44b5-a78f-0c0632d88255)
-![html5](https://github.com/FacundoDoNacimiento/FacundoDoNacimiento-portfolio/assets/118696372/e63c9929-881b-4f1c-bc56-9df50e5d180a)
-![home](https://github.com/FacundoDoNacimiento/FacundoDoNacimiento-portfolio/assets/118696372/6f1e9e74-8d9a-4678-a7f6-8a2f4e35959b)
-![flash](https://github.com/FacundoDoNacimiento/FacundoDoNacimiento-portfolio/assets/118696372/61434d3e-78cc-4d93-bc2b-e4da05f2da28)
-![envelope](https://github.com/FacundoDoNacimiento/FacundoDoNacimiento-portfolio/assets/118696372/4081b158-7be8-40dc-897d-927dfde4658f)
-![CSS3](https://github.com/FacundoDoNacimiento/FacundoDoNacimiento-portfolio/assets/118696372/690b9540-44da-4f99-9464-f4d8f888c4ef)
-![checkmark--outline](https://github.com/FacundoDoNacimiento/FacundoDoNacimiento-portfolio/assets/118696372/6a8dfa99-8eab-4f49-bf11-fadf0cbab409)
-![cara-feliz](https://github.com/FacundoDoNacimiento/FacundoDoNacimiento-portfolio/assets/118696372/b43c80fd-a60b-4e94-b769-59761606a90c)
-![bullet](https://github.com/FacundoDoNacimiento/FacundoDoNacimiento-portfolio/assets/118696372/a25e49cd-926b-449d-b5d6-805ebcce861b)
-This commit has all the images used in the final project.
+
